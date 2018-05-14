@@ -1,4 +1,4 @@
-# iOS-Swift-Apple-TableView-Bug-
+# iOS-Swift-Apple-TableView-Bug-1
 ## This project is aim to demo a UITableView that is not yet fixed until iOS 11.3 in Xcode 9.3. When you face this in your project, just don't panic, it is **not your fault**.
 
 ### This is the bug - misplacement of table view cell after cells are deleted
